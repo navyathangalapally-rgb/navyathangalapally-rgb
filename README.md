@@ -1,4 +1,4 @@
-# 👩‍💻 Navya Thangalapally
+# Navya Thangalapally
 
 ## Master's Student | Robotics & Embedded Systems
 
@@ -6,9 +6,9 @@ I am a Master’s student in Sensor Technology with a strong foundation in Elect
 
 I have hands-on experience building real-world systems and I am currently moving towards intelligent robotics by integrating perception and control.
 
----
 
-## 🔧 Core Skills
+
+## Core Skills
 
 - Embedded Systems (C, C++)
 - Python for automation & data processing
@@ -17,60 +17,59 @@ I have hands-on experience building real-world systems and I am currently moving
 - Arduino & Microcontroller Systems
 - Basics of Industrial Automation (PLC, Pneumatics)
 
----
 
-## 🤖 Projects
+## Projects
 
-### 🚗 Obstacle Detection Robot Car
+### Obstacle Detection Robot Car
 - Built an autonomous robot using Arduino and ultrasonic sensors  
 - Implemented real-time obstacle detection and navigation  
 - Optimized motor control logic for better maneuverability  
 
----
 
-### ⚡ PCB Design – Color Sensor Module
+
+### PCB Design – Color Sensor Module
 - Designed a PCB using KiCad with STM32 integration  
 - Focused on low-noise circuit design and stable sensor interfacing  
 
----
 
-### 💼 Embedded Systems Internship
+
+### Embedded Systems Internship
 - Developed automation pipelines and worked with sensor data systems  
 - Improved system efficiency and validation processes  
 
----
 
-### 🏭 Mechatronics System (PLC + Pneumatics)
+
+### Mechatronics System (PLC + Pneumatics)
 - Worked on a robotic pick-and-place system  
 - Implemented control logic for sorting objects  
 - Gained experience in industrial automation workflows  
 
----
 
-## 🌱 Currently Learning
+
+## Currently Learning
 
 - ROS (Robot Operating System)
 - Robotics system integration
 - Vision-based robotic control
 
----
 
-## 🎯 Interests
+
+## Interests
 
 - Robotics & Intelligent Systems  
 - Vision-Language-Action (VLA) systems  
 - Sensor-driven automation  
 
----
 
-## 🌐 Connect with Me
+
+## Connect with Me
 
 - 📧 navya.thangalapally@gmail.com  
 - 💼 https://linkedin.com/in/navya-v1998u  
 - 💻 https://github.com/navyathangalapally  
 
----
 
-## ⚡ Note
+
+## Note
 
 I enjoy building practical systems and continuously improving my skills by exploring modern robotics frameworks and intelligent automation.
