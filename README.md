@@ -6,8 +6,6 @@ I am a Master’s student in Sensor Technology with a strong foundation in Elect
 
 I have hands-on experience building real-world systems and I am currently moving towards intelligent robotics by integrating perception and control.
 
-
-
 ## Core Skills
 
 - Embedded Systems (C, C++)
