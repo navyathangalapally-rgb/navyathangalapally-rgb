@@ -31,17 +31,12 @@ I have hands-on experience building real-world systems and I am currently moving
 - Implemented control logic for sorting objects  
 - Gained experience in industrial automation workflows  
 
-## Currently Learning
-
-- ROS (Robot Operating System)
-- Robotics system integration
-- Vision-based robotic control
 
 ## Interests
 
+- Sensor-driven automation 
 - Robotics & Intelligent Systems  
-- Vision-Language-Action (VLA) systems  
-- Sensor-driven automation  
+
 
 ## Connect with Me
 
