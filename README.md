@@ -26,7 +26,6 @@ I have hands-on experience building real-world systems and I am currently moving
 - Improved system efficiency and validation processes  
 
 
-
 ### Mechatronics System (PLC + Pneumatics)
 - Worked on a robotic pick-and-place system  
 - Implemented control logic for sorting objects  
