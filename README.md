@@ -1,5 +1,5 @@
 # Navya Thangalapally
-## Master's Student | Robotics & Embedded Systems
+## Master's Student 
 
 I am a Master’s student in Sensor Technology with a strong foundation in Electrical and Electronics Engineering. My work focuses on embedded systems, sensor integration, and robotic control.  
 
